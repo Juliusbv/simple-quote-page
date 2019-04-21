@@ -1,0 +1,25 @@
+body {
+  background: url('https://s.iw.ro/gateway/g/ZmlsZVNvdXJjZT1odHRwJTNBJTJGJTJG/c3RvcmFnZTA3dHJhbnNjb2Rlci5yY3Mt/cmRzLnJvJTJGc3RvcmFnZSUyRjIwMTkl/MkYwMiUyRjA3JTJGMTAzODkxOF8xMDM4/OTE4X0dldHR5SW1hZ2VzLTg0NTgwNjI3/MC5qcGcmdz01ODAmaGFzaD05ZjM5MTk5/ODRmMWFjOTAzMmQ4MWQxNzY5OGExYTlkNg==.thumb.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
+.content {
+background-color: hsla(90, 100%, 70%, 0.5);
+border-radius: 20px;
+}
+.content {
+  border: 1px solid hsla(0, 50%, 30%, .9);
+}
+img {
+  width: 120px;
+  height: 90px;  
+}
+.content {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  Width: 130vh;
+  height: 20vh;
+  font-family: "Comic Sans MS", Georgia,Cambria,"Times New Roman",Times,serif;
+  font-size: 15px;
+  line-height: 1.2;
+}
